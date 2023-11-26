@@ -1,0 +1,1 @@
+// npm run cy:run:chrome -- --reporter mochawesome --spec "C:\Cypress\cypress\e2e\2-advanced-examples\practicas\login.cy.js"

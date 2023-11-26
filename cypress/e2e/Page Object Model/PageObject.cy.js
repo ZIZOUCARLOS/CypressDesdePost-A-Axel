@@ -18,4 +18,5 @@ describe('Ejemolo de POM EN LA WEB fRRE range Testers', () => {
         // home.clickAButtonEmpezar()
         home.empezarButton().click();
     });
-});
+});  
+
